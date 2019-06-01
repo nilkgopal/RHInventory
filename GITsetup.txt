@@ -1,0 +1,13 @@
+After installing GIT
+Create folder e.g:- E:/Soft/gitoperations
+right click on this folder-> select GIT Bash Here
+it opens cmd
+
+GIT Commands:-
+i)git init -> initialize empty git repository
+ii) git remote add origin "url of github" -> add origin
+iii) git pull origin master(base branch) -> fetch all data from github
+iv) git status -> tells about which files are added to index & ready to commit
+v) git add . foldername ->add all files to index
+vi) git commit -m "msg" -> save file in local repository which are added in index
+vii) git push origin master -> push all data to central repository. 
